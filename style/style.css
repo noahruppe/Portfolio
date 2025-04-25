@@ -21,7 +21,7 @@ header h1{
 
 main{
     height: 500px;
-    background-image: url("/img/grey-background.jpg");
+    background-image: url("../img/grey-background.jpg");
     align-content: baseline;
 }
 .git{
